@@ -5,4 +5,4 @@ end
 
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-print display_rainbow(color)
+print display_rainbow(colors)
